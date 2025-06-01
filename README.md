@@ -2,6 +2,9 @@
 
 A fun and interactive two-player memory card game built with HTML, CSS, and JavaScript. Players take turns flipping cards to find matching pairs, earning points for each successful match.
 
+## Game Demo
+👉 [Play the Game](https://mmrcode.github.io/memory-card/)
+
 ## Features
 
 - Two-player gameplay with turn-based mechanics
